@@ -1,0 +1,264 @@
+div>h1{
+    
+    margin: 30px;
+     height: 50px;
+      padding-left: 20px;
+       padding-top: 10px;
+}
+
+.alkaline{
+  
+   margin: 30px;
+   padding-left: 5%;
+   padding-top: 6px;
+   padding-bottom: 3px;
+   height: 20px;
+   background-color: #003396;
+   color: aliceblue;
+   margin-bottom: 0px;
+   
+}
+
+.thirteen{
+   
+   margin: 30px;
+   height: 20px;
+   padding-left: 5%;
+   padding-top: 3px;
+   padding-bottom: 3px;
+   background-color: #1750AC;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+
+}
+
+.twelve{
+   margin: 30px;
+   height: 20px;
+   padding-left: 5%;
+   padding-top: 3px;
+   padding-bottom: 3px;
+   background-color: #3373C4;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+
+
+}
+
+.eleven{
+   margin: 30px;
+   height: 20px;
+   padding-left: 5%;
+   padding-top: 3px;
+   padding-bottom: 3px;
+   background-color: #5494DA;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+
+.ten{
+   margin: 30px;
+   height: 20px;
+   padding-left: 5%;
+   padding-top: 3px;
+   padding-bottom: 3px;
+   background-color: #73B9EE;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   
+}
+
+.nine{
+   margin: 30px;
+   height: 20px;
+   padding-left: 5%;
+   padding-top: 3px;
+   padding-bottom: 3px;
+   background-color: #86CEFA;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   
+}
+
+.eight{
+   margin: 30px;
+   height: 20px;
+   padding-left: 5%;
+   padding-top: 3px;
+   background-color: #94d6fdf1;
+   padding-bottom: 3px;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   
+}
+
+.seven{
+   margin: 30px;
+   height: 20px;
+   padding-left: 5%;
+   padding-top: 5px;
+   background-color: #00c04b;
+   padding-bottom: 3px;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+
+.six{
+   margin: 30px;
+   height: 20px;
+   padding-left: 5%;
+   padding-top: 3px;
+   background-color: #f5bbcc;
+   padding-bottom: 3px;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+
+.five{
+   margin: 30px;
+   height: 20px;
+   padding-left: 5%;
+   padding-top: 3px;
+   background-color: #f3aac0;
+   padding-bottom: 3px;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+
+.four{
+   margin: 30px;
+   height: 20px;
+   padding-left: 5%;
+   padding-top: 3px;
+   background-color: #f198b3;
+   padding-bottom: 3px;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+
+.three{
+   margin: 30px;
+   height: 20px;
+   padding-left: 5%;
+   padding-top: 3px;
+   background-color: #ee87a6;
+   padding-bottom: 3px;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+
+.two{
+   margin: 30px;
+   height: 20px;
+   padding-left: 5%;
+   padding-top: 3px;
+   background-color: #ec7699;
+   padding-bottom: 3px;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+
+.one{
+   margin: 30px;
+   height: 20px;
+   padding-left: 5%;
+   padding-top: 3px;
+   background-color: #e9658d;
+   padding-bottom: 3px;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+
+.zero{
+   margin: 30px;
+   height: 20px;  
+   padding-left: 5%; 
+   padding-top: 3px;
+   background-color: #e75480;
+   padding-bottom: 3px;
+   color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+
+.gray{
+   background-color: rgb(197, 196, 196);
+}
+
+.grey{
+   background-color: white;
+}
+
+.battery{
+   padding-left: 104px;
+}
+
+.Stomach{
+   padding-left: 227px;
+}
+
+.Vinegar{
+   padding-left: 226px;
+}
+
+.Bleach{
+   padding-left: 227px;
+}
+
+.Orange{
+   padding-left: 226px;
+}
+
+.tomato{
+   padding-left: 231px;
+}
+
+.Black{
+   padding-left: 232px;
+}
+
+.Urine{
+   padding-left: 148px;
+}
+
+.Water{
+   padding-left: 232px;
+
+}
+
+.Sea{
+   padding-left: 232px;
+}
+
+.Soda{
+   padding-left: 232px;
+}
+
+.Tablets{
+   padding-left: 232px;
+}
+
+.Solution{
+   padding-left: 232px;
+}
+
+.Soapy{
+   padding-left: 232px;
+}
+
+.Drain{
+   padding-left: 139px;
+}
